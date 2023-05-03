@@ -6,3 +6,5 @@ Handsworth Boats is a specialised organisation that deals with the sale of yacht
 2) Do the most expensive boats receive the highest number of views?
 
 3) Are there shared characteristics among the most viewed boats?
+
+Dataset was from Kaggle 
