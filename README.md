@@ -1,10 +1,12 @@
 # Boat-Sales-Python-Data-Analysis-Exploration
-Handsworth Boats is a specialised organisation that deals with the sale of yachts and boats. The marketing team is currently in the process of creating a weekly newsletter aimed at assisting boat owners in increasing views of their boats and staying up to date with market trends. The team intends to analyse recent data to gain valuable insights. Some potential inquiries that the team could explore are as follows:
+Welcome to the Boat-Sales-Python-Data-Analysis & Exploration project. This project aims to support Handsworth Boats, a specialised organisation that deals with the sale of yachts and boats, in their efforts to create a weekly newsletter for boat owners. The newsletter will provide valuable insights on how to increase views of their boats and stay up to date with market trends.
 
-1) What are the distinguishing features of the most frequently viewed boat listings in the past 7 days?
+To achieve this goal, our team will analyse recent data from the boat sales market. We will explore potential inquiries such as:
 
-2) Do the most expensive boats receive the highest number of views?
+1.	What are the distinguishing features of the most frequently viewed boat listings in the past 7 days?
+2.	Do the most expensive boats receive the highest number of views?
+3.	Are there shared characteristics among the most viewed boats?
+The dataset used in this project is sourced from Kaggle, which can be accessed at the following link: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
 
-3) Are there shared characteristics among the most viewed boats?
+By leveraging Python data analysis and exploration techniques, we aim to provide insightful findings that will be valuable to Handsworth Boats and their customers. Thank you for your interest in this project.
 
-Dataset was from Kaggle https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
